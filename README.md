@@ -34,10 +34,10 @@ We categorize RS-VLM methods into:
 
 | Year | Paper | Venue | Task | Code |
 |------|------|------|------|------|
-| 2024 | LHRS-Bot | arXiv | General RS-VLM |[https://github.com/NJU-LHRS/LHRS-Bot]  |
+| 2024 | LHRS-Bot | arXiv | General RS-VLM |[[Link](https://github.com/NJU-LHRS/LHRS-Bot)]  |
 | 2024 | VHM | arXiv | RS multimodal understanding | [[Link](https://github.com/opendatalab/VHM)] |
-| 2024 | GeoChat | CVPRW | RS dialogue | [Link] |
-| 2024 | EarthDial | arXiv | RS grounding/dialogue | [Link] |
+| 2024 | GeoChat | CVPRW | RS dialogue | [[Link](https://github.com/mbzuai-oryx/GeoChat)] |
+| 2024 | EarthDial | arXiv | RS grounding/dialogue | [[Link](https://github.com/hiyamdebary/EarthDial)] |
 
 ---
 
@@ -45,8 +45,8 @@ We categorize RS-VLM methods into:
 
 | Year | Paper | Venue | Task | Code |
 |------|------|------|------|------|
-| 2024 | Open-Text Aerial Detection | arXiv | Grounding + Detection | [Link] |
-| 2025 | GeoGrounding | TBD | RS Grounding | [Link] |
+| 2024 | Open-Text Aerial Detection | arXiv | Grounding + Detection | --- |
+| 2025 | GeoGrounding | TBD | RS Grounding | [[Link](https://github.com/VisionXLab/GeoGround)] |
 
 ---
 
@@ -54,8 +54,8 @@ We categorize RS-VLM methods into:
 
 | Year | Paper | Venue | Task | Code |
 |------|------|------|------|------|
-| 2024 | RT-OVAD | arXiv | OVD | [Link] |
-| 2024 | UAV-OVD | arXiv | UAV OVD | [Link] |
+| 2024 | OVA-DETR | arXiv | OVD | [[Link](https://github.com/wanggynpuer/OVA-DETR)] |
+| 2024 | UAV-OVD | arXiv | UAV OVD | --- |
 
 ---
 
@@ -63,8 +63,8 @@ We categorize RS-VLM methods into:
 
 | Year | Paper | Venue | Task | Code |
 |------|------|------|------|------|
-| 2023 | RSVQA | CVPR | RS-VQA | [Link] |
-| 2024 | RS Captioning models | - | Caption | [Link] |
+| 2023 | RSVQA | CVPR | RS-VQA | [[Link](https://github.com/syvlo/RSVQA)] |
+| 2024 | RS Captioning models | - | Caption | [[Link](https://github.com/201528014227051/RSICD_optimal)] |
 
 ---
 
