@@ -34,8 +34,8 @@ We categorize RS-VLM methods into:
 
 | Year | Paper | Venue | Task | Code |
 |------|------|------|------|------|
-| 2024 | LHRS-Bot | arXiv | General RS-VLM | [https://arxiv.org/pdf/2402.02544] |
-| 2024 | VHM | arXiv | RS multimodal understanding | [Link] |
+| 2024 | LHRS-Bot | arXiv | General RS-VLM |[https://github.com/NJU-LHRS/LHRS-Bot]  |
+| 2024 | VHM | arXiv | RS multimodal understanding | [[Link](https://github.com/opendatalab/VHM)] |
 | 2024 | GeoChat | CVPRW | RS dialogue | [Link] |
 | 2024 | EarthDial | arXiv | RS grounding/dialogue | [Link] |
 
